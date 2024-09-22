@@ -1,4 +1,4 @@
-# Hi there, I'm Aaditya! 👋
+# Hi there, I'm VortexNova09! 👋
 
 Welcome to my GitHub profile. I’m a passionate Web Developer and Technology Enthusiast. I specialize in web development and enjoy creating projects that leverage innovative solutions.
 
@@ -8,27 +8,21 @@ Welcome to my GitHub profile. I’m a passionate Web Developer and Technology En
 
 ## 💡 Skills & Tools:
 - **Languages & Tools**:  
-  - HTML | CSS | JavaScript  
+  - HTML | CSS
   - Git | GitHub  
-  - GitHub Codespaces | Acode | VS Code  
+  - GitHub Codespaces | Acode  
   - Termux  
 
 - **Areas of Expertise**:  
   - Web Design and Development  
-  - Responsive Web Design  
 
 ## 📖 Learning:
 - Python | SQL | JavaScript frameworks
 
 ## 🌱 Current Projects:
-- Developing a responsive web application to showcase my projects and skills.
+- Developing a web application to showcase my skills.
 - Experimenting with advanced CSS and JavaScript techniques to enhance user experience.
 
 ## 📚 Future Goals:
 - Continue to refine my web, app, and software development skills and explore new technologies.
 - Seek opportunities for professional growth and collaboration in the tech industry.
-
-## 📫 How to reach me:
-
-- 🐦 [X](https://x.com/itsaadi_09?t=utIRWM5OptytYYL9_97bAg&s=09)
-- 💬 [LinkedIn](https://www.linkedin.com/in/aaditya-d-16845428b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=androidapp)
